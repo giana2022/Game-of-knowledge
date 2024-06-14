@@ -420,7 +420,7 @@ especial_categories = {
             ["What is the title of the first novel by Chinua Achebe?", ["Things Fall Apart", "No Longer at Ease", "Arrow of God", "A Man of the People"], "Things Fall Apart"]
         ]
     },
-        'Science': {
+    'Science': {
             'easy': [
                 ["What planet is known as the Red Planet?", ["Mars", "Venus", "Jupiter", "Saturn"], "Mars"],
                 ["What gas do plants absorb from the atmosphere?", ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"], "Carbon Dioxide"],
