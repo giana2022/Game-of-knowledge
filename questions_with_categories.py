@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jun  4 23:35:01 2024
-
-@author: Juan
-"""
 
 questions_answers = {
   "easy": [

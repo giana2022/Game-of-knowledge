@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jun  4 23:21:16 2024
 
-@author: Juan
-"""
 import random
 import time
 from questions_with_categories import questions_answers, especial_categories
